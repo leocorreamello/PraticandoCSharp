@@ -1,0 +1,15 @@
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/bin/Debug/net10.0/ExerciciosEPratica
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/bin/Debug/net10.0/ExerciciosEPratica.deps.json
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/bin/Debug/net10.0/ExerciciosEPratica.runtimeconfig.json
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/bin/Debug/net10.0/ExerciciosEPratica.dll
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/bin/Debug/net10.0/ExerciciosEPratica.pdb
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.AssemblyInfoInputs.cache
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.AssemblyInfo.cs
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.csproj.CoreCompileInputs.cache
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.sourcelink.json
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.dll
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/refint/ExerciciosEPratica.dll
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.pdb
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ExerciciosEPratica.genruntimeconfig.cache
+/Users/leocorreamello/CodeProjects/C#/ExerciciosEPratica/ExerciciosEPratica/ExerciciosEPratica/obj/Debug/net10.0/ref/ExerciciosEPratica.dll
